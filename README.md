@@ -3,7 +3,7 @@
 AutoWorld is a professional web-based platform designed for automotive enthusiasts and buyers. It provides a comprehensive catalog of vehicle models with a core focus on a high-performance comparison tool to help users make informed decisions.
 
 ## Key Features
-    ![7](https://github.com/user-attachments/assets/275eb1d5-bee5-4d0c-89ae-7b01c16ec45a)
+   ![7](https://github.com/user-attachments/assets/275eb1d5-bee5-4d0c-89ae-7b01c16ec45a)
 - **Extensive Vehicle Catalog:** Displays a wide range of car models with detailed images and categorization.
   ![8](https://github.com/user-attachments/assets/29e6b99a-8599-47c0-8de7-f542e8c79711)
 - **Smart Comparison Tool:** Allows users to select any **two car models** and provides a side-by-side comparison of technical specifications.
